@@ -21,7 +21,7 @@ Os logins vão ter diferentes tipos de permissão.
 *	TI – Vai poder realizar, modificar e visualizar o cadastro como também o prontuário, vai poder solicitar matérias do tipo papelaria.  Vai poder criar novas contar e modificar contas existentes.
 
 #  Tela de cadastro
-Na tela de cadastro você vai poder visualizar quem já tem cadastro, podendo ser editado, e quando foi a última vez que utilizou o hospital, e também vai poder cadastrar novas pessoas.
+Na tela de cadastro você vai poder visualizar quem já tem cadastro, podendo ser editado, e também vai poder cadastrar novas pessoas.
 A tela de cadastro vai solicitar:
 * Nome completo
 *	Data de nascimento
