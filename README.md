@@ -3,7 +3,6 @@
 Vou fazer o projeto sozinho.
 Uanderson Henrique Batista da Silva - 21110435
 
-Decidi que vou fazer o projeto de 2 maneiras um com interface e base de dados outro sem interface, pois nunca mexi com interface e banco de dados e não garanto que vai ter os 4 patterns, mas no sem interface vou conseguir colocar os 4 patterns, mas tambem estou gostando de mexer com interface, ai vou continuar e irei colocar os 2 no github.
 
 Planejo fazer um cadastro de um hospital, tera o cadastro de informações de contato e informações mais da área medica dos pacientes, tambem a criação de um prontuario para adicionar informações de em qual enfermaria estara o paciente, quais remedios ele vai/esta tomando no hospital, e poder fazer/ver anotações sobre o andamento do paciente.
 
