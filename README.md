@@ -3,6 +3,12 @@
 Vou fazer o projeto sozinho.
 Uanderson Henrique Batista da Silva - 21110435
 
+Padrões de projetos utilizados:
+* Template method  
+* MVC
+* DAO
+* Proxy
+
 
 Planejo fazer um cadastro de um hospital, tera o cadastro de informações de contato e informações mais da área medica dos pacientes, tambem a criação de um prontuario para adicionar informações de em qual enfermaria estara o paciente, quais remedios ele vai/esta tomando no hospital, e poder fazer/ver anotações sobre o andamento do paciente.
 
@@ -81,9 +87,9 @@ Nessa tela poderá ser solicitado os matérias que o usuário tem permissão de 
 *	Area do material (Almoxarifado / Farmácia)
 *	Material
 *	Quantidade
-*	Entregar ou você vai pegar?
 
-Automaticamente no pedido vai ter o nome de quem solicitou e o setor que ele trabalha.
+
+Automaticamente no pedido vai ter o setor que solicitou.
 
 #Tela da visualização de solicitação de materiais
 
